@@ -1,0 +1,6 @@
+{
+  "name": "Mock Interview Practise",
+  "description": "Sleek night-mode cybersecurity mock interview practice app featuring auto URL job parsing, resume & document context, voice mode answering, and STAR-L framework feedback.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
